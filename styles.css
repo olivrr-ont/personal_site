@@ -92,6 +92,21 @@ section h2 {
     margin-top: 0;
 }
 
+.profile-img {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+    display: block;
+    margin: 20px auto;
+}
+
+section img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+
 footer {
     background-color: #333;
     color: white;
