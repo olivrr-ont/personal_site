@@ -103,8 +103,9 @@ section h2 {
 }
 
 .thumbnail {
-    width: 300px;
+    width: 150px;
     height: auto;
+    border-radius: 5%
     display: block;
     margin: 20px auto;
 }
